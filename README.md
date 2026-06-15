@@ -91,10 +91,7 @@ student-gpa-predictor/
 │   └── Studentdata.csv          # Raw dataset
 ├── src/
 │   └── train_and_app.py         # Full pipeline + Gradio UI
-├── notebooks/
-│   └── exploratory_analysis.ipynb  # (optional) EDA notebook
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 
