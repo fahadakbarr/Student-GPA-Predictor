@@ -113,9 +113,3 @@ See `requirements.txt`. Core packages:
 <img width="1536" height="754" alt="Correlation Heatmap" src="https://github.com/user-attachments/assets/1ff2eb55-a0e9-4574-9a9c-e38743d35bb9" />
 <img width="1536" height="754" alt="Catboost: Actual vs Predicted GPA" src="https://github.com/user-attachments/assets/9f1e9eaf-2e5b-47f4-bb1a-08e2a8773480" />
 
-
----
-
-## 📝 License
-
-MIT
