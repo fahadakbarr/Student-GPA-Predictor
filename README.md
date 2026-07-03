@@ -106,6 +106,12 @@ See `requirements.txt`. Core packages:
 - `matplotlib`, `seaborn`
 - `gradio`
 
+---
+
+## Contributors
+- Fahad Akbar
+- Abdullah Baig
+
 
 ## Results
 
